@@ -1,0 +1,14 @@
+{
+  "name": "happy-labor-day",
+  "version": "0.0.0",
+  "description": "Happy Labor Day",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
